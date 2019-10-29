@@ -1,0 +1,8 @@
+@import "header.css";
+
+
+body{
+    padding: 0 50px 0 50px;
+    background: url('https://wallpaperaccess.com/full/13347.jpg');
+    /* background-image: url("conceptbackground.jpg"); */
+}
