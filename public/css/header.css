@@ -35,4 +35,5 @@ header .header-menu .header-menu-box a{
 header .header-menu .header-menu-box a:hover{
     color: #35733f;
     font-size: 2.4rem;
+    cursor: pointer;
 }

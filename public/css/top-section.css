@@ -1,0 +1,23 @@
+#top-section{
+    padding: 10px 15px;
+}
+
+#top-section h1{
+    font-family: 'Dancing Script', cursive;
+    position: relative;
+    display: flex;
+    color: #35733f;
+    font-size: 3.5rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px whitesmoke;
+    
+}
+
+#top-section .container .second{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    margin-left: 274px;
+}
+
